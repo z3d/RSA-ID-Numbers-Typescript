@@ -1,0 +1,20 @@
+{
+  "name": "rsa-id-numbers",
+  "version": "1.0.0",
+  "description": "A library for validating and generating South African ID numbers.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": ["south-africa", "id-numbers", "validation", "typescript"],
+  "author": "z3d <925699+z3d@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.0.0",
+    "jest": "^29.0.0",
+    "@types/jest": "^29.0.0"
+  }
+}
