@@ -1,6 +1,6 @@
 # RSA ID Numbers
 
-A TypeScript library for validating and generating South African ID numbers.
+A TypeScript library for handling South African ID numbers.
 
 ## Features
 
